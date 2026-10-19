@@ -6,7 +6,14 @@
 3. **Settings → Pages** → Source: **Deploy from a branch** → Branch: **main**, folder **/(root)** → **Save**.
 4. Minithu 1-2 kin link eka enawa: `https://<username>.github.io/<repo-name>/`
 
-## Photos / MP3 add karana widiya
+## ✏️ Edit button eken edit karana widiya (lesima kramaya)
+1. Site link eka open karala dakunu yata **✏️ Edit** click karanna (nathnam `.../edit.html`).
+2. Photos, song, video **Upload** karala, text wenas karanna.
+3. **📦 Download updated ZIP** click karanna → unzip karanna.
+4. GitHub repo eke **Add file → Upload files** walin okkoma files danna → **Commit changes**.
+5. Minithu 1-2 kin link eka thiyena hamotama aluth ewa penawa.
+
+## Photos / MP3 add karana widiya (GitHub eken kelinma)
 `media` folder ekata me namwalin files upload karanna (GitHub → media folder ekata yanna → Add file → Upload files):
 
 | File name | Thena |
