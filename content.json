@@ -1,0 +1,37 @@
+{
+  "intro": {
+    "title": "Look up, my love.",
+    "subtitle": "Someone booked you a little flyover ☁️",
+    "button": "Open your surprise",
+    "video": "media/intro.mp4"
+  },
+  "book": {
+    "pageTitle": "Our little scrapbook",
+    "photos": ["media/photo1.jpg", "media/photo2.jpg", "media/photo3.jpg", "media/photo4.jpg"],
+    "sticker": "you & me ♡",
+    "letterTitle": "A little letter for you",
+    "from": "Me",
+    "to": "You",
+    "letter": "I put our softest days in this little book for you. The sunny walks, the silly photos, the songs we hummed on the way home.\n\nThere is a letter, our photos, a voice note and a memory map. All of it, just for you."
+  },
+  "windows": {
+    "title": "Views from our window seat",
+    "items": [
+      { "img": "media/window1.jpg", "caption": "first trip" },
+      { "img": "media/window2.jpg", "caption": "sunset flight" },
+      { "img": "media/window3.jpg", "caption": "above the clouds" },
+      { "img": "media/window4.jpg", "caption": "landing home" }
+    ]
+  },
+  "music": { "title": "A note just for you", "artist": "our song", "src": "media/song.mp3" },
+  "map": {
+    "title": "Memory map",
+    "pins": [
+      { "id": "p1", "x": 14, "y": 42, "img": "media/place1.jpg", "label": "San Francisco" },
+      { "id": "p2", "x": 60, "y": 44, "img": "media/place2.jpg", "label": "Chicago" },
+      { "id": "p3", "x": 84, "y": 30, "img": "media/place3.jpg", "label": "New York" },
+      { "id": "p4", "x": 77, "y": 80, "img": "media/place4.jpg", "label": "Florida" }
+    ]
+  },
+  "footer": "There's more here ♡"
+}
